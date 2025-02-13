@@ -38,4 +38,4 @@ Check out a quick look at the gameplay in AI Mode (tested on 'Slow 4G').
 
 ## 🕹️ Play now
 
-With Tic Tac Toe, fun and challenge are just a click away, providing an adaptable experience for both casual games and intense competitions. Get ready to play and showcase your strategic skills with every move! [Try it out!]()
+With Tic Tac Toe, fun and challenge are just a click away, providing an adaptable experience for both casual games and intense competitions. Get ready to play and showcase your strategic skills with every move! [Try it out.](https://tic-tac-toe-6zcv.onrender.com/)
